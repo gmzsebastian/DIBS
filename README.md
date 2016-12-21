@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+This is the procedure I follow to add a new article to DIBS
 
-You can use the [editor on GitHub](https://github.com/gmzsebastian/DIBS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Create a new page in \Dictionary\newpage.html.
+- The formal of the title is no capital letters, and dashes instead of spaces.
+- Add the name of the new page to the Dictionary.html index of pages.
+- Add the name of the new page to the References.html list of pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Write the article, gather references and check for grammar.
+- Write all the references, if possible from ADS, and write them in References.html
+- The format is (Smith et al. 2010), (Smith 2010), or (Smith & Jones 2010)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gmzsebastian/DIBS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Replace the words in the new article that have a definiton in DIBS with the linked version found in References.html
+- If using an image make sure to give credit.
+- Check that the webpage looks good and compile.
