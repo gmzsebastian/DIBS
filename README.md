@@ -1,5 +1,5 @@
 # DIBS
-A Dictionary of Interacting Binary Stars, build for experts and beginners where anyone can contribute.
+A Dictionary of Interacting Binary Stars, build for experts and beginners where anyone can contribute. The webpage is live at gmzsebastian.github.io/DIBS
 
 This is the procedure I follow to add a new article to DIBS
 
