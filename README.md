@@ -1,3 +1,6 @@
+# DIBS
+A Dictionary of Interacting Binary Stars, build for experts and beginners where anyone can contribute.
+
 This is the procedure I follow to add a new article to DIBS
 
 - Create a new page in \Dictionary\newpage.html.
