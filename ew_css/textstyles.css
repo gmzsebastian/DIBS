@@ -1,0 +1,83 @@
+.Style1{font-family: 'Arial-BoldMT','Arial',sans-serif;
+font-size: 17px; 
+font-weight:700; 
+margin:0;
+color: #FEFEFE;
+word-wrap: break-word;}
+
+.Style2{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 27px; 
+margin:0;
+color: #010000;
+word-wrap: break-word;font-weight: 700;}
+
+.Style3{font-family: 'Arial-ItalicMT','Arial',sans-serif;
+font-size: 27px; 
+font-style: italic;
+margin:0;
+line-height:40.00px;
+color: #FEFFFF;
+word-wrap: break-word;}
+
+.Style4{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 27px; 
+margin:0;
+text-align:center;
+color: #5B3B53;
+word-wrap: break-word;}
+
+.Style5{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 14px; 
+margin:0;
+line-height:24px;
+color: #5B3B53;
+word-wrap: break-word;}
+
+.Style6{font-family: 'Helvetica',sans-serif;
+font-size: 16px; 
+font-weight:700; 
+line-height: 150%;
+list-style:none;
+margin:0;
+text-decoration: underline;
+word-wrap: break-word;}
+
+.Style7{font-family: 'Helvetica',sans-serif;
+font-size: 16px; 
+line-height: 150%;
+margin:0;
+word-wrap: break-word;}
+
+.Style8{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 24px; 
+line-height:42px;
+margin:0;
+color: #5B3B53;
+word-wrap: break-word;}
+
+.linkStyle_9{font-family: 'Helvetica',sans-serif;
+font-size: 16px; 
+color: #0432FF;
+text-decoration: underline; 
+/*000#00F900#FEFB00#FF2600*/
+word-wrap: break-word;}
+a.linkStyle_9:visited{color:#FEFB00; text-decoration:underline;}
+a.linkStyle_9:hover{color:#FF2600; text-decoration:underline;}
+
+.Style12{font-family: 'Helvetica',sans-serif;
+font-size: 16px; 
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+
+.linkStyle_14{font-family: 'Helvetica',sans-serif;
+font-size: 16px; 
+color: #0432FF;
+text-decoration: underline; 
+/*000#00F900#AB26A4#FF2600*/
+word-wrap: break-word;}
+a.linkStyle_14:visited{color:#AB26A4; text-decoration:underline;}
+a.linkStyle_14:hover{color:#FF2600; text-decoration:underline;}
+
+
+.car06{href="http://adsabs.harvard.edu/abs/2006ima..book.....C";
+target="_blank"}
